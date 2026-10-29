@@ -1,0 +1,67 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "howItWorks": "How It Works",
+    "contact": "Contact"
+  },
+  "login": {
+    "backToHome": "Back to home",
+    "tabs": {
+      "login": "Login",
+      "register": "Register",
+      "logout": "Logout"
+    },
+    "welcome": {
+      "title": "Welcome back",
+      "description": "Log in to manage and book your home services."
+    },
+    "fields": {
+      "email": "Email address",
+      "emailPlaceholder": "name@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password"
+    },
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "submit": "Log in",
+    "separator": "or",
+    "google": "Continue with Google",
+    "noAccount": "Don't have an account?",
+    "legal": {
+      "notice": "By continuing, you agree to our",
+      "terms": "Terms",
+      "and": "and",
+      "privacy": "Privacy Policy"
+    },
+    "brand": {
+      "badge": "Verified Home Platform",
+      "tagline": "Your home, taken care of.",
+      "benefits": {
+        "professionals": "Verified professionals",
+        "prices": "Transparent prices",
+        "booking": "Easy booking"
+      },
+      "trust": "Trusted by 45,000+ households",
+      "guarantee": "4.9/5 Guarantee"
+    }
+  },
+  "register": {
+    "welcome": {
+      "title": "Create your account",
+      "description": "Join Homio and make caring for your home easier."
+    },
+    "fields": {
+      "name": "Full name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email address",
+      "emailPlaceholder": "name@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "Create a password",
+      "confirmPassword": "Confirm password",
+      "confirmPasswordPlaceholder": "Re-enter your password"
+    },
+    "submit": "Create account",
+    "haveAccount": "Already have an account?"
+  }
+}
