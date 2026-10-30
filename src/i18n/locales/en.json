@@ -5,6 +5,123 @@
     "howItWorks": "How It Works",
     "contact": "Contact"
   },
+  "hero": {
+    "badge": "Trusted home services",
+    "title": {
+      "first": "Home services, booked",
+      "second": "in minutes"
+    },
+    "description": "Top-rated background-checked professionals for cleaning, repair, and installations across your city.",
+    "trust": {
+      "verified": "Verified professionals",
+      "pay": "Pay on service",
+      "guarantee": "Satisfaction guaranteed"
+    },
+    "book": "Book a service",
+    "browse": "Browse services"
+  },
+  "howItWorks": {
+    "eyebrow": "SIMPLE 3-STEP PROCESS",
+    "title": "How it works",
+    "description": "Getting quality home services is simple and stress-free.",
+    "steps": {
+      "choose": {
+        "title": "Choose a service",
+        "description": "Select from cleaning, repair, plumbing, or seasonal home maintenance tailored to your dwelling's needs.",
+        "highlight": "Upfront pricing"
+      },
+      "schedule": {
+        "title": "Pick date & time",
+        "description": "Choose a convenient morning, afternoon, or evening slot that fits your schedule with instant confirmation.",
+        "highlight": "Same-day slots available"
+      },
+      "complete": {
+        "title": "Get it done at home",
+        "description": "A background-checked pro arrives with tools and completes the job. Pay securely only after inspection.",
+        "highlight": "100% satisfaction guarantee"
+      }
+    }
+  },
+  "whyChooseHomio": {
+    "eyebrow": "PEACE OF MIND GUARANTEE",
+    "title": "Why choose Homio",
+    "description": "Built for peace of mind and effortless domestic service booking.",
+    "features": {
+      "verified": {
+        "title": "Verified professionals",
+        "description": "All technicians undergo rigorous background checks, criminal checks, valid trade license verification, and practical skills assessments."
+      },
+      "prices": {
+        "title": "Transparent prices",
+        "description": "Upfront flat rates and hourly quotes confirmed in the app. No hidden fuel charges, surge multipliers, or surprise surcharges upon job completion."
+      },
+      "flexible": {
+        "title": "Flexible time slots",
+        "description": "Same-day availability, weekend and holiday appointments, and painless one-click rescheduling up to 2 hours before the scheduled appointment."
+      },
+      "tracking": {
+        "title": "Track your booking",
+        "description": "Real-time arrival tracking on the map and direct phone or message contact with assigned technician."
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "TESTIMONIALS",
+    "title": "What our customers say",
+    "description": "Real reviews from homeowners who trust Homio with their homes.",
+    "rating": "5 out of 5 stars",
+    "items": {
+      "nour": {
+        "quote": "Booking was effortless and the technician arrived right on time. My apartment has never looked better.",
+        "name": "Nour Hassan",
+        "role": "Homeowner, Cairo"
+      },
+      "ahmed": {
+        "quote": "The upfront pricing meant no surprises at the end. Fast, professional, and genuinely friendly service.",
+        "name": "Ahmed Fathy",
+        "role": "Homeowner, Giza"
+      },
+      "mariam": {
+        "quote": "I rescheduled twice and it was still simple. This is how home maintenance should feel.",
+        "name": "Mariam Adel",
+        "role": "Homeowner, Alexandria"
+      }
+    }
+  },
+  "bookService": {
+    "title": "Ready to book your first service?",
+    "description": "Pick a time that suits you and leave the rest to our verified professionals.",
+    "cta": "Book a service",
+    "note": "No hidden fees. Cancel anytime."
+  },
+  "footer": {
+    "description": "Trusted home services for cleaning, repairs, and installations — booked in minutes.",
+    "phone": "+20 100 123 4567",
+    "email": "hello@homio.com",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "supportTitle": "Support",
+    "links": {
+      "cleaning": "Home Cleaning",
+      "plumbing": "Plumbing",
+      "electrical": "Electrical",
+      "maintenance": "Home Maintenance",
+      "about": "About Us",
+      "howItWorks": "How It Works",
+      "contact": "Contact Us",
+      "careers": "Careers",
+      "help": "Help Center",
+      "faqs": "FAQs",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy"
+    },
+    "social": {
+      "website": "Website",
+      "support": "Support chat",
+      "share": "Share"
+    },
+    "copyright": "© {{year}} Homio. All rights reserved."
+  },
   "login": {
     "backToHome": "Back to home",
     "tabs": {

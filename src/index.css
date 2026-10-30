@@ -8,12 +8,14 @@
 
 @theme {
   --color-background: #ffffff;
-  --color-surface: #f5f6f8;
+  --color-surface: #ebeef3;
+  --color-surface-soft: #f5f6f8;
   --color-border: #e3e6eb;
 
   --color-accent: #2b59c3;
   --color-accent-hover: #1f449c;
-  --color-accent-soft: #e9effb;
+  --color-accent-soft: #eff4ff;
+  --color-star: #f59e0b;
 
   --color-heading: #0f1720;
   --color-body: #3a4452;
@@ -21,4 +23,8 @@
 
   /* Font family */
   --font-jakarta: "Plus Jakarta Sans", sans-serif;
+
+  /* Section Padding and Margin */
+  --spacing-section: 70px;
+  --spacing-section-mobile: 35px;
 }

@@ -13,12 +13,18 @@ export default function Header() {
   const { mutate, isPending } = useLogout();
 
   return (
-    <header className="bg-white/20 backdrop-blur-md absolute w-full top-0">
+    <header className="bg-white/10 backdrop-blur-sm absolute w-full top-0 z-30">
       <div className="container flex items-center justify-between py-4">
-        <img className="w-24" src="../../logo.png" alt="Homio logo" />
+        <Link to="/">
+          <img className="w-24" src="../../logo.png" alt="Homio logo" />
+        </Link>
         <nav className="flex gap-6">
           {navLinks.map((link) => (
-            <Link className="text-white text-lg" to={link.href} key={link.href}>
+            <Link
+              className="text-white text-lg hover:text-white/70 duration-150"
+              to={link.href}
+              key={link.href}
+            >
               {t(link.label)}
             </Link>
           ))}
